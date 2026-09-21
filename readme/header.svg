@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="200" viewBox="0 0 1100 200" role="img">
   <defs>
     <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A" />
-      <stop offset="50%" stop-color="#0369A1" />
-      <stop offset="100%" stop-color="#38BDF8" />
+      <stop offset="0%" stop-color="#3F0D0D" />
+      <stop offset="50%" stop-color="#EA580C" />
+      <stop offset="100%" stop-color="#FDBA74" />
     </linearGradient>
   </defs>
   <rect width="1100" height="200" rx="18" fill="url(#headerGrad)" />
-  <text x="550" y="100" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Open to Collab</text>
+  <text x="550" y="100" text-anchor="middle" fill="#FFFFFF" font-family="Archivo, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Collaboration Open</text>
 </svg>
