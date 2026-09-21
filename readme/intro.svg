@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="248" viewBox="0 0 1100 248" role="img">
   <defs>
     <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A" />
-      <stop offset="50%" stop-color="#0369A1" />
-      <stop offset="100%" stop-color="#38BDF8" />
+      <stop offset="0%" stop-color="#1C1917" />
+      <stop offset="50%" stop-color="#65A30D" />
+      <stop offset="100%" stop-color="#D9F99D" />
     </linearGradient>
   </defs>
   <rect width="1100" height="248" rx="16" fill="url(#introGrad)" />
-  <text x="550" y="62" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I work on AI products and I am from Japan.</text>
-  <text x="550" y="102" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Open to a collab that is clearly useful on</text>
-  <text x="550" y="142" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">both sides.</text>
-  <text x="550" y="182" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Budget for a partner is about $3,000 monthly</text>
-  <text x="550" y="222" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">if the fit is right.</text>
+  <text x="550" y="62" text-anchor="middle" fill="#1A2E05" font-family="Work Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I build AI systems and come from Japan.</text>
+  <text x="550" y="102" text-anchor="middle" fill="#1A2E05" font-family="Work Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">If you like shipping, a shared setup could be</text>
+  <text x="550" y="142" text-anchor="middle" fill="#1A2E05" font-family="Work Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">beneficial for both of us.</text>
+  <text x="550" y="182" text-anchor="middle" fill="#1A2E05" font-family="Work Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I can put nearly $3,000 / month toward a</text>
+  <text x="550" y="222" text-anchor="middle" fill="#1A2E05" font-family="Work Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">partner who actually shows up.</text>
 </svg>
