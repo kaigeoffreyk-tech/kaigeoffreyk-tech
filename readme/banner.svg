@@ -1,24 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="690" viewBox="0 0 1100 690" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="751" viewBox="0 0 1100 751" role="img">
   <defs>
-    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#082F49" />
-      <stop offset="50%" stop-color="#0891B2" />
-      <stop offset="100%" stop-color="#A5F3FC" />
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0C1222" />
+      <stop offset="40%" stop-color="#162447" />
+      <stop offset="100%" stop-color="#1F2A55" />
+    </linearGradient>
+    <linearGradient id="bannerGradSheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10" />
+      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <rect width="1100" height="690" rx="18" fill="url(#bannerGrad)" />
-  <text x="550" y="56" text-anchor="middle" fill="#082F49" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Let's Build Together</text>
-  <text x="550" y="132" text-anchor="middle" fill="#082F49" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I build AI systems and come from Japan.</text>
-  <text x="550" y="172" text-anchor="middle" fill="#082F49" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">If you like shipping, a shared setup could be</text>
-  <text x="550" y="212" text-anchor="middle" fill="#082F49" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">beneficial for both of us.</text>
-  <text x="550" y="252" text-anchor="middle" fill="#082F49" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I can put nearly $3,000 / month toward a</text>
-  <text x="550" y="292" text-anchor="middle" fill="#082F49" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">partner who actually shows up.</text>
-  <text x="550" y="358" text-anchor="middle" fill="#A5F3FC" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Building AI products full time</text>
-  <text x="550" y="404" text-anchor="middle" fill="#A5F3FC" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Let's build together for real</text>
-  <text x="550" y="450" text-anchor="middle" fill="#A5F3FC" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Nearly $3,000/month to share</text>
-  <path d="M408 530 L430 554 L452 530" fill="none" stroke="#A5F3FC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M528 530 L550 554 L572 530" fill="none" stroke="#A5F3FC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M648 530 L670 554 L692 530" fill="none" stroke="#A5F3FC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
-  <rect x="410" y="586" width="280" height="56" rx="12" fill="#0891B2" />
-  <text x="550" y="622" text-anchor="middle" fill="#FFFFFF" font-family="Manrope, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Visit website</text>
+  <rect width="1100" height="751" rx="22" fill="url(#bannerGrad)" />
+  <rect width="1100" height="751" rx="22" fill="url(#bannerGradSheen)" />
+  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Let's Align</text>
+  <line x1="420" y1="138" x2="680" y2="138" stroke="#A5B4FC" stroke-width="1.5" stroke-opacity="0.45" />
+  <text x="550" y="172" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I am a Senior AI Engineer originally from</text>
+  <text x="550" y="210" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Japan, and I want to align with a partner.</text>
+  <text x="550" y="248" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">If our goals match, the collaboration can be</text>
+  <text x="550" y="286" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">beneficial for both of us.</text>
+  <text x="550" y="324" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I can contribute around $3,000 / month for</text>
+  <text x="550" y="362" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">comparatively little effort.</text>
+  <text x="550" y="430" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Let's align on a partnership</text>
+  <text x="550" y="473" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">If goals match, we both benefit</text>
+  <text x="550" y="516" text-anchor="middle" fill="#A5B4FC" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Around $3,000/month, little effort</text>
+  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#A5B4FC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#A5B4FC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#A5B4FC" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <rect x="420" y="643" width="260" height="52" rx="26" fill="#EEF2FF" />
+  <text x="550" y="676" text-anchor="middle" fill="#0B1220" font-family="Plus Jakarta Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
 </svg>
